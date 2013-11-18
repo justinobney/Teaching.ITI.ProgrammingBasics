@@ -1,0 +1,6 @@
+C:\Projects\ITI.IT156.Learning\ITI.IT156.Learning\bin\Debug\ITI.IT156.Learning.exe.config
+C:\Projects\ITI.IT156.Learning\ITI.IT156.Learning\bin\Debug\ITI.IT156.Learning.exe
+C:\Projects\ITI.IT156.Learning\ITI.IT156.Learning\bin\Debug\ITI.IT156.Learning.pdb
+C:\Projects\ITI.IT156.Learning\ITI.IT156.Learning\obj\Debug\ITI.IT156.Learning.csprojResolveAssemblyReference.cache
+C:\Projects\ITI.IT156.Learning\ITI.IT156.Learning\obj\Debug\ITI.IT156.Learning.exe
+C:\Projects\ITI.IT156.Learning\ITI.IT156.Learning\obj\Debug\ITI.IT156.Learning.pdb
